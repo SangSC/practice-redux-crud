@@ -1,6 +1,8 @@
 # CRUD App
 
 for pracitce
+![pic](https://i.imgur.com/FlKTJh1.png)
+
 
 ### Tools used:
 
